@@ -1,0 +1,14 @@
+version: '3.8'
+services:
+  redis:
+    image: redis:latest
+    ports:
+      - "6379:6379"
+    container_name: gpsg-redis
+
+  rabbitmq:
+    image: rabbitmq:management
+    ports:
+      - "5672:5672"  # AMQP port
+      - "15672:15672"  # Management UI port
+    container_name: gpsg-rabbitmq

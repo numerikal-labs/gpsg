@@ -100,3 +100,12 @@ curl "http://localhost:8080/stop-pattern?id=<PATTERN_ID>"
 ```
 
 The pattern will stop immediately.
+
+
+## See the Live Pattern
+
+Run
+```bash
+python3 live-graph.py
+```
+to see the pattern generation in real time.

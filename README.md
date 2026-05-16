@@ -8,3 +8,5 @@ GPSG helps in real-time software waveform broadcasting. It can create waveforms 
   - Noise simulation
   - Music production, Synths can be triggered using this
   - Synthetic data generation
+
+Multiple GPSG instances can be coupled for a complex topology in a distributed fashion to do a lot of creative stuff. 

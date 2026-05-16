@@ -7,7 +7,7 @@ GPSG helps in real-time software waveform broadcasting. It can create waveforms 
   - `Quantum Computing`, probability simulation
   - `Computer Networks`, package transmission, fail rates, etc
   - `Noise simulation`, well known noise for eg, shot-noise in electronics
-  - `Statistical Randomness simulation`, data variations is necessary where samples are necessary
+  - `Statistical Randomness simulation`, data variations is necessary where samples should have sufficient variety 
   - `Music production`, Synths can be triggered using this
   - `Synthetic Data Generation`
 
